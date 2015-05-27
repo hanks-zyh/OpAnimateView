@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OpAnimationView">
+        <attr name="backgroundColor" format="color"></attr>
+        <attr name="shapeColor" format="color"></attr>
+        <attr name="shapeWidth" format="dimension"></attr>
+    </declare-styleable>
+</resources>
