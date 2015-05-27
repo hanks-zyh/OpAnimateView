@@ -1,5 +1,7 @@
 # OpAnimateView
+----
 Material Design View with Animation
+![](https://img.shields.io/badge/Android-CustomView-brightgreen.svg)
 ----
 ![](https://github.com/hanks-zyh/OpAnimateView/blob/master/1.gif)
 
