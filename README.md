@@ -18,9 +18,9 @@ Material Design View with Animation
                 android:paddingTop="@dimen/activity_vertical_margin"
                 tools:context=".MainActivity">
 
-    <!-- NOTE : change the path   -->
     <app.hanks.com.customanimateview.OpAnimateView.OpAnimationView
         android:id="@+id/animView"
+        app:shapeRadius="15dp"
         android:layout_width="150dp"
         android:layout_height="150dp"/>
 
@@ -28,6 +28,7 @@ Material Design View with Animation
         android:id="@+id/animView2"
         android:layout_width="50dp"
         android:layout_height="50dp"
+        app:shapeRadius="5dp"
         app:shapeColor="#939D29"
         app:shapeWidth="2dp"
         app:backgroundColor="#EEFF44"
@@ -41,6 +42,7 @@ Material Design View with Animation
         android:layout_height="100dp"
         app:shapeWidth="3dp"
         app:backgroundColor="#03A9F4"
+        app:shapeRadius="11dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"/>
@@ -54,6 +56,7 @@ Material Design View with Animation
         android:text="anim"/>
 
 </RelativeLayout>
+
 
 ```
 
